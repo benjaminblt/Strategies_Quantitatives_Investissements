@@ -1,5 +1,11 @@
 # Stratégies quantitatives d’investissement sur l’Euro Stoxx 50
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/eurostoxx.png"
+       alt="Stratégies quantitatives d’investissement sur l’Euro Stoxx 50"
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-Finance%20quantitative-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Données%20financières-150458?logo=pandas&logoColor=white)
 ![Backtesting](https://img.shields.io/badge/Backtesting-2019--2023-1F4E79)
