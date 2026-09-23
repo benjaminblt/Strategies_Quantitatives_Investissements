@@ -1,7 +1,7 @@
 # Stratégies quantitatives d’investissement sur l’Euro Stoxx 50
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/eurostoxx.png"
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/eurostoxx.png"
        alt="Stratégies quantitatives d’investissement sur l’Euro Stoxx 50"
        width="100%">
 </p>
